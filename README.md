@@ -4,7 +4,7 @@ This repo contains the notebook + files from our "What's new in Python?" session
 
 Enjoy!
 
-If you liked this training, you might also like:
+If you liked this session, you might also like:
 
 - My YouTube channel: https://YouTube.com/reuvenlerner
 - Better developers, new, free articles about Python every week: https://BetterDevelopersWeekly.com/
