@@ -1,6 +1,6 @@
 # Notes, programs, and files
 
-This repo contains the notebook + files from my training class.
+This repo contains the notebook + files from our "What's new in Python?" session on November 2, 2026.
 
 Enjoy!
 
