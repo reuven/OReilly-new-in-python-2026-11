@@ -4,6 +4,8 @@ This repo contains the notebook + files from our "What's new in Python?" session
 
 Our guest this week: Hugo van Kemenade, Python 3.14 and 3.15 release manager: https://hugovk.dev/
 
+Resources will be in this directory and in the Jupyter notebook.
+
 If you liked this session, you might also like:
 
 - My YouTube channel: https://YouTube.com/reuvenlerner
