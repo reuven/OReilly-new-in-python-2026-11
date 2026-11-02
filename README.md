@@ -2,6 +2,9 @@
 
 This repo contains the notebook + files from our "What's new in Python?" session on November 2, 2026.
 
+Our guest this week: Hugo van Kemenade, https://hugovk.dev/
+
+
 Enjoy!
 
 If you liked this session, you might also like:
